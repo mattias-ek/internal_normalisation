@@ -5,4 +5,4 @@
 
 The notebook requires python 3.9 and the isopy package to run locally.
 
-Copyright (c) 2022 Mattias Ek
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) Copyright (c) 2022 Mattias Ek
