@@ -1,5 +1,7 @@
 # Internal Normalisation
 
+This notebook accompanies the paper [Representation of s-process abundances for comparison to data from bulk meteoritic rocks] by Lugaro et al. 2022
+
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/mattias-ek/internal_normalisation/blob/main/InternalNormalisation.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mattias-ek/internal_normalisation/HEAD?filepath=InternalNormalisation.ipynb) 
 
