@@ -3,4 +3,4 @@ dependencies:
   - python=3.9
   - pip
   - pip:
-    - isop7==0.7.7
+    - isopy==0.7.7
